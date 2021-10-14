@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/movies-list-app/static/css/main.f728c89f.chunk.css",
-    "main.js": "/movies-list-app/static/js/main.127ce495.chunk.js",
-    "main.js.map": "/movies-list-app/static/js/main.127ce495.chunk.js.map",
-    "runtime-main.js": "/movies-list-app/static/js/runtime-main.b8f2e5a0.js",
-    "runtime-main.js.map": "/movies-list-app/static/js/runtime-main.b8f2e5a0.js.map",
-    "static/js/2.f39a8e26.chunk.js": "/movies-list-app/static/js/2.f39a8e26.chunk.js",
-    "static/js/2.f39a8e26.chunk.js.map": "/movies-list-app/static/js/2.f39a8e26.chunk.js.map",
-    "static/js/3.84e17446.chunk.js": "/movies-list-app/static/js/3.84e17446.chunk.js",
-    "static/js/3.84e17446.chunk.js.map": "/movies-list-app/static/js/3.84e17446.chunk.js.map",
-    "index.html": "/movies-list-app/index.html",
-    "static/css/main.f728c89f.chunk.css.map": "/movies-list-app/static/css/main.f728c89f.chunk.css.map",
-    "static/js/2.f39a8e26.chunk.js.LICENSE.txt": "/movies-list-app/static/js/2.f39a8e26.chunk.js.LICENSE.txt"
+    "main.css": "/news-react-app/static/css/main.f728c89f.chunk.css",
+    "main.js": "/news-react-app/static/js/main.127ce495.chunk.js",
+    "main.js.map": "/news-react-app/static/js/main.127ce495.chunk.js.map",
+    "runtime-main.js": "/news-react-app/static/js/runtime-main.6588e107.js",
+    "runtime-main.js.map": "/news-react-app/static/js/runtime-main.6588e107.js.map",
+    "static/js/2.f39a8e26.chunk.js": "/news-react-app/static/js/2.f39a8e26.chunk.js",
+    "static/js/2.f39a8e26.chunk.js.map": "/news-react-app/static/js/2.f39a8e26.chunk.js.map",
+    "static/js/3.84e17446.chunk.js": "/news-react-app/static/js/3.84e17446.chunk.js",
+    "static/js/3.84e17446.chunk.js.map": "/news-react-app/static/js/3.84e17446.chunk.js.map",
+    "index.html": "/news-react-app/index.html",
+    "static/css/main.f728c89f.chunk.css.map": "/news-react-app/static/css/main.f728c89f.chunk.css.map",
+    "static/js/2.f39a8e26.chunk.js.LICENSE.txt": "/news-react-app/static/js/2.f39a8e26.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b8f2e5a0.js",
+    "static/js/runtime-main.6588e107.js",
     "static/js/2.f39a8e26.chunk.js",
     "static/css/main.f728c89f.chunk.css",
     "static/js/main.127ce495.chunk.js"
