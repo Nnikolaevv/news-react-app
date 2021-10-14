@@ -1,11 +1,11 @@
 import {applyMiddleware, combineReducers, compose, createStore} from "redux";
 import thunk from "redux-thunk";
-import moviesReducer from "../reducers/Movies-reducer";
+import {newsReducer} from "../reducers/news-reducer";
 
 
 
 const reducers = combineReducers({
-  moviesPage: moviesReducer,
+  newsPage: newsReducer,
 })
 
 const composeEnhancers = window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__ || compose;

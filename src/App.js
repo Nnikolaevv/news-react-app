@@ -1,11 +1,20 @@
 import './App.css';
+import {BrowserRouter as Router} from "react-router-dom";
+import NewsPage from "./components/NewsPage/NewsPage";
+import Header from "./components/Header/Header";
+
 
 function App() {
-  return (
-    <div className="App">
-        <h1>HELLO</h1>
-    </div>
-  );
+
+
+    return (
+        <Router>
+            <div className="App">
+                <Header/>
+                <NewsPage/>
+            </div>
+        </Router>
+    );
 }
 
 export default App;
