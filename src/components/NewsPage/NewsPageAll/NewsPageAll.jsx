@@ -4,7 +4,7 @@ import NewsItem from "../NewsItem/NewsItem";
 import {requestNews} from "../../../state/reducers/news-reducer";
 import {useDispatch} from "react-redux";
 
-const NewsPageAll = (props) => {
+const NewsPageAll = () => {
     const dispatch = useDispatch()
 
     useEffect(() => {
